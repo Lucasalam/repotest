@@ -1,2 +1,2 @@
 # repotest
-Es un repositorio de prueba 
+Es un repositorio de prueba para aprender realizar cambios y comentarlos
